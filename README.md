@@ -1,2 +1,2 @@
 # Java_Projects
-Personal collection of my Java programs or exercises
+Collection of my Java programs or exercises
